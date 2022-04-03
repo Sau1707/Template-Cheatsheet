@@ -1,0 +1,24 @@
+\documentclass{cheatsheet}
+\usepackage{blindtext}
+
+
+\usepackage{listings}
+
+\doctitle{Cheatsheet}
+\author{Micha Bosshart - bmicha@ethz.ch}
+\setColor{darkgray}
+
+\newcommand*{\foo}[2][\customColor]{#1-#2}
+
+\begin{document}
+\section[sku]{test1}{test2}
+    \subsection{Sub}
+    \foo[red]{test}
+        \subsubsection{SUb sub }
+        \mathbox{test}
+                
+\section{section}
+\subsection{Sub}
+\blindtext{}
+
+\end{document}

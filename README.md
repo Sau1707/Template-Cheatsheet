@@ -1,2 +1,3 @@
-# Template-Cheatsheet
-Latex Cheatsheet Template
+New commands
+
+\setColor{#color}
