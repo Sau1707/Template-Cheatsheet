@@ -1,10 +1,10 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 21.12) (preloaded format=pdflatex 2022.3.14)  18 MAR 2022 15:04
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 21.12) (preloaded format=pdflatex 2022.3.14)  4 APR 2022 17:38
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
  %&-line parsing enabled.
-**c:/Users/leona/Desktop/Latex/main.tex
-(c:/Users/leona/Desktop/Latex/main.tex
+**c:/Users/leona/Documents/GitHub/Template-Cheatsheet/main.tex
+(c:/Users/leona/Documents/GitHub/Template-Cheatsheet/main.tex
 LaTeX2e <2021-11-15> patch level 1
 L3 programming layer <2021-11-22> (cheatsheet.cls
 Document Class: cheatsheet 2020/09/14 LaTeX class for cheatsheets by Micha Bosshart
@@ -502,15 +502,15 @@ File: epstopdf-sys.cfg 2021/03/18 v2.0 Configuration of epstopdf for MiKTeX
 
 {C:/Users/leona/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map}] (main.aux) ) 
 Here is how much of TeX's memory you used:
- 14506 strings out of 478659
- 289920 string characters out of 2845920
- 582692 words of memory out of 3000000
- 32391 multiletter control sequences out of 15000+600000
- 406283 words of font info for 37 fonts, out of 8000000 for 9000
+ 14508 strings out of 478659
+ 290128 string characters out of 2845920
+ 582704 words of memory out of 3000000
+ 32393 multiletter control sequences out of 15000+600000
+ 406577 words of font info for 38 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 114i,6n,118p,469b,912s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 114i,6n,118p,492b,916s stack positions out of 5000i,500n,10000p,200000b,80000s
 <C:/Users/leona/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi7.pfb><C:/Users/leona/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmss10.pfb><C:/Users/leona/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmss8.pfb><C:/Users/leona/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmssbx10.pfb>
-Output written on main.pdf (1 page, 46527 bytes).
+Output written on main.pdf (1 page, 46898 bytes).
 PDF statistics:
  29 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)

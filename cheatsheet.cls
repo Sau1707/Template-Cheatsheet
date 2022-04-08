@@ -21,6 +21,7 @@
 % SOFTWARE.
 
 % Author: % Micha Bosshart - bmicha@ethz.ch
+% Edited: Leonardo Saurwein - lsaurwein@ethz.ch
 
 \NeedsTeXFormat{LaTeX2e}
 \ProvidesClass{cheatsheet}[2020/09/14 LaTeX class for cheatsheets by Micha Bosshart]
@@ -210,6 +211,13 @@
     \begin{center}%
         \fontfamily{qcr}\selectfont #1%
     \end{center}%
+}
+
+%% Definition
+% PRE: #1 math expression
+\newcommand{\createDef}[2]{%
+    \textbf{#1}: #2
+    
 }
 
 \renewcommand{\normalsize}{\fontsize{8}{9}\selectfont} % changes normalsize to small % dirty
